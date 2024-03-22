@@ -24,6 +24,8 @@ pip install Pillow
 
 ## Usage
 
-To run the script, navigate to the directory containing watermark.py and run:
+To run the script, navigate to the directory containing folderRename.py and run:
 
+```bash
 python folderRename.py
+```
