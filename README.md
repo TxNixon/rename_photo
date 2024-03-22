@@ -20,6 +20,7 @@ To install the required Python package, run:
 
 ```bash
 pip install Pillow
+```
 
 ## Usage
 
