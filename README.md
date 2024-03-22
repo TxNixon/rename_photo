@@ -25,4 +25,4 @@ pip install Pillow
 
 To run the script, navigate to the directory containing watermark.py and run:
 
-python 
+python folderRename.py
