@@ -20,3 +20,9 @@ To install the required Python package, run:
 
 ```bash
 pip install Pillow
+
+## Usage
+
+To run the script, navigate to the directory containing watermark.py and run:
+
+python 
